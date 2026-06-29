@@ -1,0 +1,19 @@
+hls4ml/converters/pytorch/reshape.py
+  s_120b6aa364b86f::t_a008bbf836d326 81-87,89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.4",
+  "base_commit_sha": "d330c30281f52ab69b6a3168984d71af412e7956",
+  "prompts": {},
+  "sessions": {
+    "s_120b6aa364b86f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82eac3f7-9126-4d35-9e3a-b307fb1fd193",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "anh nguyen <anh.nqqq@icloud.com>"
+    }
+  }
+}
